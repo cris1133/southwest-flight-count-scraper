@@ -1,6 +1,6 @@
 # southwest-flight-count-scraper
 
--------------------------Project Description--------------------------------------------------
+**Project Description**
 Southwest Airlines Flight Count Data Scraper
 Created by George Thompson
 
